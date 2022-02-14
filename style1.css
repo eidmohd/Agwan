@@ -1,0 +1,26 @@
+/* table {
+    border-color: gold;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center
+}
+
+div{
+    border-radius: 3px; */
+
+body{
+    background-image: url(moon.png),url(night.jpg);
+    background-size:150px ,contain;
+    background-repeat:no-repeat,  round ;
+    height: 400px;
+    width: auto;
+    background-attachment: fixed;
+}
+
+#a{
+    height: 120px;
+    width: 150px;
+    background-color:rgba(241, 200, 33, 0.993) ;
+    margin: 100px auto;
+    border: 10px dotted rgba(228, 176, 198, 0.507);
+}
